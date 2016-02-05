@@ -1,0 +1,1494 @@
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1009
+  9
+$INSBASE
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$EXTMIN
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$EXTMAX
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+VPORT
+ 70
+0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LTYPE
+ 70
+1
+  0
+LTYPE
+  2
+CONTINUOUS
+ 70
+0
+  3
+Solid line
+ 72
+65
+ 73
+0
+ 40
+0.0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LAYER
+ 70
+1
+  0
+LAYER
+  2
+0
+ 70
+64
+ 62
+7
+  6
+continuous
+  0
+ENDTAB
+  0
+TABLE
+  2
+STYLE
+ 70
+1
+  0
+STYLE
+  2
+STANDARD
+ 70
+0
+ 40
+0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+1
+ 3
+ARIAL.TTF
+ 4
+
+  0
+ENDTAB
+  0
+TABLE
+  2
+VIEW
+ 70
+0
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+BLOCKS
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+POLYLINE
+  8
+CorteLaser
+ 62
+0
+ 70
+1
+ 66
+1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+500.0
+ 20
+150.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+524.8
+ 20
+150.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+524.8
+ 20
+143.8
+ 30
+-44.0
+ 42
+1.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+531.0
+ 20
+143.8
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+531.0
+ 20
+150.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+719.0
+ 20
+150.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+719.0
+ 20
+143.8
+ 30
+-44.0
+ 42
+1.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+725.2
+ 20
+143.8
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+725.2
+ 20
+150.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+756.0
+ 20
+150.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+756.0
+ 20
+125.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+750.0
+ 20
+125.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+750.0
+ 20
+100.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+756.0
+ 20
+100.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+756.0
+ 20
+75.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+750.0
+ 20
+75.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+750.0
+ 20
+50.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+756.0
+ 20
+50.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+756.0
+ 20
+25.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+750.0
+ 20
+25.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+750.0
+ 20
+-2.84217094304e-14
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+756.0
+ 20
+-2.84217094304e-14
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+756.0
+ 20
+-25.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+750.0
+ 20
+-25.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+750.0
+ 20
+-50.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+756.0
+ 20
+-50.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+756.0
+ 20
+-75.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+750.0
+ 20
+-75.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+750.0
+ 20
+-100.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+756.0
+ 20
+-100.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+756.0
+ 20
+-125.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+750.0
+ 20
+-125.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+750.0
+ 20
+-150.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+725.2
+ 20
+-150.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+725.2
+ 20
+-143.8
+ 30
+-44.0
+ 42
+1.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+719.0
+ 20
+-143.8
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+719.0
+ 20
+-150.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+655.25
+ 20
+-150.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+655.25
+ 20
+-145.0
+ 30
+-44.0
+ 42
+1.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+647.25
+ 20
+-145.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+647.25
+ 20
+-150.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+531.0
+ 20
+-150.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+531.0
+ 20
+-143.8
+ 30
+-44.0
+ 42
+1.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+524.8
+ 20
+-143.8
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+524.8
+ 20
+-150.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+494.0
+ 20
+-150.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+494.0
+ 20
+-125.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+500.0
+ 20
+-125.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+500.0
+ 20
+-100.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+494.0
+ 20
+-100.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+494.0
+ 20
+-75.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+500.0
+ 20
+-75.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+500.0
+ 20
+-50.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+494.0
+ 20
+-50.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+494.0
+ 20
+-25.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+500.0
+ 20
+-25.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+500.0
+ 20
+-2.84217094304e-14
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+494.0
+ 20
+-2.84217094304e-14
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+494.0
+ 20
+25.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+500.0
+ 20
+25.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+500.0
+ 20
+50.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+494.0
+ 20
+50.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+494.0
+ 20
+75.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+500.0
+ 20
+75.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+500.0
+ 20
+100.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+494.0
+ 20
+100.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+494.0
+ 20
+125.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+500.0
+ 20
+125.0
+ 30
+-44.0
+  0
+SEQEND
+  8
+CorteLaser
+  0
+CIRCLE
+  8
+CorteLaser
+ 62
+0
+ 10
+635.25
+ 20
+-145.0
+ 30
+-44.0
+ 40
+2.2
+  0
+POLYLINE
+  8
+CorteLaser
+ 62
+0
+ 70
+1
+ 66
+1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+534.5
+ 20
+-99.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+534.5
+ 20
+-44.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+522.5
+ 20
+-44.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+522.5
+ 20
+-99.0
+ 30
+-44.0
+  0
+SEQEND
+  8
+CorteLaser
+  0
+CIRCLE
+  8
+CorteLaser
+ 62
+0
+ 10
+530.0
+ 20
+-1.42108547152e-13
+ 30
+-44.0
+ 40
+2.2
+  0
+CIRCLE
+  8
+CorteLaser
+ 62
+0
+ 10
+520.0
+ 20
+-138.0
+ 30
+-44.0
+ 40
+2.2
+  0
+CIRCLE
+  8
+CorteLaser
+ 62
+0
+ 10
+705.0
+ 20
+-134.0
+ 30
+-44.0
+ 40
+2.1
+  0
+CIRCLE
+  8
+CorteLaser
+ 62
+0
+ 10
+535.0
+ 20
+134.0
+ 30
+-44.0
+ 40
+2.2
+  0
+CIRCLE
+  8
+CorteLaser
+ 62
+0
+ 10
+538.5
+ 20
+-36.0
+ 30
+-44.0
+ 40
+2.1
+  0
+CIRCLE
+  8
+CorteLaser
+ 62
+0
+ 10
+508.5
+ 20
+-36.0
+ 30
+-44.0
+ 40
+2.1
+  0
+CIRCLE
+  8
+CorteLaser
+ 62
+0
+ 10
+715.0
+ 20
+106.0
+ 30
+-44.0
+ 40
+2.2
+  0
+CIRCLE
+  8
+CorteLaser
+ 62
+0
+ 10
+617.0
+ 20
+-134.0
+ 30
+-44.0
+ 40
+2.1
+  0
+CIRCLE
+  8
+CorteLaser
+ 62
+0
+ 10
+667.25
+ 20
+-145.0
+ 30
+-44.0
+ 40
+2.2
+  0
+CIRCLE
+  8
+CorteLaser
+ 62
+0
+ 10
+538.5
+ 20
+-89.0
+ 30
+-44.0
+ 40
+2.1
+  0
+CIRCLE
+  8
+CorteLaser
+ 62
+0
+ 10
+538.5
+ 20
+-124.0
+ 30
+-44.0
+ 40
+2.1
+  0
+CIRCLE
+  8
+CorteLaser
+ 62
+0
+ 10
+677.5
+ 20
+-138.0
+ 30
+-44.0
+ 40
+2.1
+  0
+CIRCLE
+  8
+CorteLaser
+ 62
+0
+ 10
+715.0
+ 20
+134.0
+ 30
+-44.0
+ 40
+2.2
+  0
+CIRCLE
+  8
+CorteLaser
+ 62
+0
+ 10
+625.0
+ 20
+-138.0
+ 30
+-44.0
+ 40
+2.1
+  0
+CIRCLE
+  8
+CorteLaser
+ 62
+0
+ 10
+530.0
+ 20
+48.0
+ 30
+-44.0
+ 40
+2.2
+  0
+POLYLINE
+  8
+CorteLaser
+ 62
+0
+ 70
+1
+ 66
+1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+554.0
+ 20
+15.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+519.0
+ 20
+15.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+519.0
+ 20
+6.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+554.0
+ 20
+6.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+554.0
+ 20
+-47.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+712.0
+ 20
+-47.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+712.0
+ 20
+14.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+732.0
+ 20
+14.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+732.0
+ 20
+34.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+712.0
+ 20
+34.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+712.0
+ 20
+95.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+554.0
+ 20
+95.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+554.0
+ 20
+42.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+519.0
+ 20
+42.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+519.0
+ 20
+33.0
+ 30
+-44.0
+  0
+VERTEX
+  8
+CorteLaser
+ 10
+554.0
+ 20
+33.0
+ 30
+-44.0
+  0
+SEQEND
+  8
+CorteLaser
+  0
+CIRCLE
+  8
+CorteLaser
+ 62
+0
+ 10
+677.5
+ 20
+-146.0
+ 30
+-44.0
+ 40
+2.1
+  0
+CIRCLE
+  8
+CorteLaser
+ 62
+0
+ 10
+572.5
+ 20
+-146.0
+ 30
+-44.0
+ 40
+2.1
+  0
+CIRCLE
+  8
+CorteLaser
+ 62
+0
+ 10
+535.0
+ 20
+106.0
+ 30
+-44.0
+ 40
+2.2
+  0
+CIRCLE
+  8
+CorteLaser
+ 62
+0
+ 10
+685.0
+ 20
+-134.0
+ 30
+-44.0
+ 40
+2.1
+  0
+CIRCLE
+  8
+CorteLaser
+ 62
+0
+ 10
+722.0
+ 20
+44.0
+ 30
+-44.0
+ 40
+2.2
+  0
+CIRCLE
+  8
+CorteLaser
+ 62
+0
+ 10
+625.0
+ 20
+-146.0
+ 30
+-44.0
+ 40
+2.1
+  0
+CIRCLE
+  8
+CorteLaser
+ 62
+0
+ 10
+730.0
+ 20
+-138.0
+ 30
+-44.0
+ 40
+2.2
+  0
+CIRCLE
+  8
+CorteLaser
+ 62
+0
+ 10
+597.0
+ 20
+-134.0
+ 30
+-44.0
+ 40
+2.1
+  0
+CIRCLE
+  8
+CorteLaser
+ 62
+0
+ 10
+544.0
+ 20
+24.0
+ 30
+-44.0
+ 40
+2.2
+  0
+CIRCLE
+  8
+CorteLaser
+ 62
+0
+ 10
+572.5
+ 20
+-138.0
+ 30
+-44.0
+ 40
+2.1
+  0
+CIRCLE
+  8
+CorteLaser
+ 62
+0
+ 10
+722.0
+ 20
+4.0
+ 30
+-44.0
+ 40
+2.2
+  0
+CIRCLE
+  8
+CorteLaser
+ 62
+0
+ 10
+508.5
+ 20
+-124.0
+ 30
+-44.0
+ 40
+2.1
+  0
+CIRCLE
+  8
+CorteLaser
+ 62
+0
+ 10
+508.5
+ 20
+-89.0
+ 30
+-44.0
+ 40
+2.1
+  0
+ENDSEC
+  0
+EOF
